@@ -1,0 +1,15 @@
+C:\Users\matth\Desktop\code\LearnBasics\bin\Debug\net9.0\LearnBasics.exe
+C:\Users\matth\Desktop\code\LearnBasics\bin\Debug\net9.0\LearnBasics.deps.json
+C:\Users\matth\Desktop\code\LearnBasics\bin\Debug\net9.0\LearnBasics.runtimeconfig.json
+C:\Users\matth\Desktop\code\LearnBasics\bin\Debug\net9.0\LearnBasics.dll
+C:\Users\matth\Desktop\code\LearnBasics\bin\Debug\net9.0\LearnBasics.pdb
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.AssemblyInfo.cs
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.sourcelink.json
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.dll
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\refint\LearnBasics.dll
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.pdb
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\LearnBasics.genruntimeconfig.cache
+C:\Users\matth\Desktop\code\LearnBasics\obj\Debug\net9.0\ref\LearnBasics.dll
