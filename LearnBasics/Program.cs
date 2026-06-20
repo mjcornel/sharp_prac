@@ -23,3 +23,16 @@ Console.WriteLine("Name is "+ name + "  and i hate "+ num+ " year old");
 Console.Write("using the " + numf);
 
 Console.WriteLine(34.40M);
+///////////////////
+/// Strings interpolation
+// string projectName = "ACME";
+
+string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+Console.WriteLine(russianMessage);
+/////////////////////
+// numbers
+int faren = 94;
+Console.WriteLine((faren - 32)*5/9);
+
+Console.WriteLine(5/10);
+
